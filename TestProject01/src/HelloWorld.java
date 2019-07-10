@@ -1,18 +1,9 @@
+public class HelloWorld{
+	      public static void main(String[]args){
 
-public class HelloWorld {
-
-	public static void main(String[] args) {
-		// Hello World!の出力
-		int a =10;
-
-		if(a ==2){
-		System.out.println("A");
-		}else if(a == 3){
-			System.out.println("B");
-		}else{
-			System.out.println("C");
-		}
-
-	}
+for(int i = 1; i < 10; i++ ){
+	System.out.println(i);
 }
 
+	      }
+}
