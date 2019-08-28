@@ -1,6 +1,7 @@
 
 
 import java.io.IOException;
+import java.io.PrintWriter;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
@@ -21,8 +22,13 @@ public class WelcomeServlet extends HttpServlet {
 		request.setCharacterEncoding("UTF-8");
 		response.setContentType("text/html;charset=UTF-8");
 		String username = request.getParameter("username");
+		
+		
+		System.out.println(username);
+		
+		PrintWriter out=response.getWriter();
 
-		System.out.println("<html><head></head><body><br>"+username+"さん、ようこそ！</body></heml>");
+		out.println("<html><head></head><body><br>"+username+"さん、ようこそ！</body></heml>");
 
 	}}
 
