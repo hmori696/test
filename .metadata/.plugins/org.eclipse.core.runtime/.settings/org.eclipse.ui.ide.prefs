@@ -4,6 +4,10 @@ PROBLEMS_FILTERS_MIGRATE=true
 SHOW_LOCATION=true
 SWITCH_PERSPECTIVE_ON_PROJECT_CREATION=never
 eclipse.preferences.version=1
+<<<<<<< HEAD
 platformState=1520389288770
+=======
+platformState=1561601465193
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
 quickStart=false
 tipsAndTricks=true

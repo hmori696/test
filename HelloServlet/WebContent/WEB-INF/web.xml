@@ -14,12 +14,17 @@
   </servlet-mapping>
   <servlet>
     <servlet-name>Welcome</servlet-name>
+<<<<<<< HEAD
     <servlet-class>WelcomeServlet</servlet-class>
+=======
+    <servlet-class>/WelcomeServlet</servlet-class>
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
   </servlet>
   <servlet-mapping>
     <servlet-name>Welcome</servlet-name>
     <url-pattern>/HelloServlet/WelcomeServlet</url-pattern>
   </servlet-mapping>
+<<<<<<< HEAD
   <servlet>
     <servlet-name>Inquiry</servlet-name>
     <servlet-class>InquiryServlet</servlet-class>
@@ -39,4 +44,6 @@
 <url-pattern>/HelloServlet/TestServlet</url-pattern>
 </servlet-mapping>
 
+=======
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
 </web-app>

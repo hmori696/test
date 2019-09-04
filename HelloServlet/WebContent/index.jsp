@@ -10,6 +10,7 @@
 <input type="button"value="HelloServlet"onClick="location.href='HelloServlet'">
 <input type="button"value="WelcomeServlet"onClick="location.href='welcome.jsp'">
 <input type="button"value="問い合わせ"onClick="location.href='inquiry.jsp'">
+<<<<<<< HEAD
 
 GET通信
 <form method="get"action="TestServlet">
@@ -25,6 +26,8 @@ POST通信
 </form>
 
 
+=======
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
 
 </body>
 </html>

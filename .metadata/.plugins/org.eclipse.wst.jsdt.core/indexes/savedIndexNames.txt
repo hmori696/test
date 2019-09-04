@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 INDEX VERSION 1.3+C:\Users\testuser\Desktop\Workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
 3674761975.index
 2055351946.index
 2530802075.index
+=======
+INDEX VERSION 1.3+C:\Users\testuser\Desktop\workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+786457217.index
+3051292180.index
+2265625511.index
+2055351946.index
+3612738285.index
+2530802075.index
+2971831718.index
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
 3677105585.index
 2082654798.index
 255023574.index

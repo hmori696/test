@@ -124,7 +124,11 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
+<<<<<<< HEAD
       <Context docBase="C:\Users\testuser\Desktop\Workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\testuser\Desktop\Workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\HelloServlet" path="/HelloServlet" reloadable="true" source="org.eclipse.jst.jee.server:HelloServlet"/></Host>
+=======
+      <Context docBase="C:\Users\testuser\Desktop\workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\ROOT" path="" reloadable="false"/><Context docBase="C:\Users\testuser\Desktop\workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\HelloServlet" path="/HelloServlet" reloadable="true" source="org.eclipse.jst.jee.server:HelloServlet"/><Context docBase="C:\Users\testuser\Desktop\workspace\workspace-mori\test\.metadata\.plugins\org.eclipse.wst.server.core\tmp0\wtpwebapps\HelloJSP" path="/HelloJSP" reloadable="true" source="org.eclipse.jst.jee.server:HelloJSP"/></Host>
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
     </Engine>
   </Service>
 </Server>

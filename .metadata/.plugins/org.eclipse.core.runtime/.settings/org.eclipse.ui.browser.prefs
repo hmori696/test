@@ -1,2 +1,6 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
 internalWebBrowserHistory=http\://localhost\:8080/HelloServlet/TestServlet|*|http\://localhost\:8080/HelloServlet/|*|http\://localhost\:8080/HelloServlet/TestServlet?username\=aaa&password\=123|*|http\://localhost\:8080/HelloServlet/TestServlet?username\=aaa&password\=sss|*|http\://localhost\:8080/HelloServlet/InquiryServlet|*|http\://localhost\:8080/HelloServlet/inquiry.jsp|*|
+=======
+internalWebBrowserHistory=http\://localhost\:8080/HelloServlet/|*|http\://localhost\:8080/HelloServlet/welcome.jsp|*|http\://localhost\:8080/HelloServlet/WelcomeServlet|*|http\://localhost\:8080/HelloServlet/WelcomeServret|*|http\://localhost\:8080/HelloServlet/HelloServlet|*|http\://localhost\:8080/HelloJSP/greeting-out.jsp|*|http\://localhost\:8080/HelloJSP/total-out.jsp|*|http\://localhost\:8080/HelloJSP/|*|
+>>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
