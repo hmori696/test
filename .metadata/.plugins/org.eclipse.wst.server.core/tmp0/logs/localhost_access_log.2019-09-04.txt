@@ -1,0 +1,10 @@
+127.0.0.1 - - [04/Sep/2019:19:43:10 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:19:43:11 +0900] "GET /HelloServlet/ HTTP/1.1" 200 370
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:19:43:22 +0900] "GET /HelloServlet/inquiry.jsp HTTP/1.1" 200 712
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:19:43:52 +0900] "POST /HelloServlet/InquiryServlet HTTP/1.1" 200 116
+127.0.0.1 - - [04/Sep/2019:20:13:19 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:20:13:21 +0900] "GET /HelloServlet/ HTTP/1.1" 200 730
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:20:13:36 +0900] "GET /HelloServlet/TestServlet?username=aaa&password=sss HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:20:13:47 +0900] "POST /HelloServlet/TestServlet HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:20:14:20 +0900] "GET /HelloServlet/TestServlet?username=aaa&password=123 HTTP/1.1" 200 55
+0:0:0:0:0:0:0:1 - - [04/Sep/2019:20:14:27 +0900] "POST /HelloServlet/TestServlet HTTP/1.1" 200 55
