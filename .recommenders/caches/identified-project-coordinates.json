@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-[[{"location":"C:\\pleiades\\tomcat\\8\\lib\\servlet-api.jar","type":"JAR","hints":{}},"ABSENT"],[{"location":"C:\\pleiades\\java\\8","type":"JRE","hints":{}},"jre:jre:1.8.0"]]
-=======
-[[{"location":"C:\\pleiades\\java\\8","type":"JRE","hints":{}},"jre:jre:1.8.0"],[{"location":"C:\\pleiades\\tomcat\\8\\lib\\servlet-api.jar","type":"JAR","hints":{}},"ABSENT"]]
->>>>>>> 0194bd800cfe02c6a83fd1e5b25a2b8064c7502c
+[[{"location":"C:\\pleiades\\tomcat\\8\\lib\\mysql-connector-java-5.1.46-bin (1).jar","type":"JAR","hints":{}},"com.mysql.jdbc:com.mysql.jdbc:5.1.46"],[{"location":"C:\\pleiades\\java\\8","type":"JRE","hints":{}},"jre:jre:1.8.0"]]
