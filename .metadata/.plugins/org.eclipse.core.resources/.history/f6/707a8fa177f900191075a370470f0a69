@@ -1,0 +1,7 @@
+
+public class Person {
+
+	public Srting name = null;
+
+	public int age =0;
+}

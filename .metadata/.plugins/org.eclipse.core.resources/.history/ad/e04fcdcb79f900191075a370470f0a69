@@ -1,0 +1,76 @@
+
+public class Test {
+
+	public static void main(String[] args) {
+
+
+Person taro = new Person();
+
+taro.name=" 山田太郎" ;
+taro.age=20;
+taro.phoneNumber=" 0123456789";
+taro.addres=" アドレス１ ";
+
+
+System.out.println(taro.name);
+System.out.println(taro.age);
+
+
+Person jiro = new Person();
+
+jiro.name=" 木村次郎" ;
+jiro.age=18;
+jiro.phoneNumber=" 0123456788";
+jiro.addres=" アドレス2 ";
+
+System.out.println(jiro.name);
+System.out.println(jiro.age);
+System.out.println(jiro.phoneNumber);
+System.out.println(jiro.addres);
+
+
+
+Person hanako = new Person();
+
+hanako.name=" 鈴木花子" ;
+hanako.age=18;
+hanako.phoneNumber=" 0123456779";
+hanako.addres=" アドレス3 ";
+
+System.out.println(hanako.name);
+System.out.println(hanako.age);
+
+Person hiroko = new Person();
+
+hiroko.name=" 森裕子" ;
+hiroko.age=27;
+hiroko.phoneNumber=" 01234566666";
+hiroko.addres="kmkoki@yahoo.co.jp ";
+
+System.out.println(hiroko.name);
+System.out.println(hiroko.age);
+
+
+
+
+
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	}
+
+}
